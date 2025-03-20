@@ -1,4 +1,4 @@
-# 👋 Olá! Eu me Rodrigo de Souza Lopes! Sou apaixonado por tecnologias!Aspirante a desenvolvedor FullStack e Mobile!
+# 👋 Olá! Eu me chamo Rodrigo de Souza Lopes! Sou apaixonado por tecnologias!Aspirante a desenvolvedor FullStack e Mobile!
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos que estou trabalhando e outras contribuições que faço para a comunidade.
 
