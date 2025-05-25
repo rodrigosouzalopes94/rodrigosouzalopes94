@@ -1,4 +1,4 @@
-# 👋 Olá! Eu me chamo Rodrigo de Souza Lopes! Sou apaixonado por tecnologias!Aspirante a desenvolvedor FullStack e Mobile!
+# 👋 Olá! Eu me chamo Rodrigo de Souza Lopes! Desenvolvedor mobile Android, pós graduando em Desenvolvimento de aplicativos móveis!
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos que estou trabalhando e outras contribuições que faço para a comunidade.
 
@@ -18,11 +18,10 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos que estou tra
 
 ## 🌱 O que estou aprendendo agora
 
-- **Kotlin**: Aprofundando na criação de aplicações móveis nativas com Android, utilizando as melhores práticas de arquitetura e design de interfaces.
-- **React**: Desenvolvendo interfaces web dinâmicas e responsivas, com foco em componentes reutilizáveis e gerenciamento de estado.
-- **Android**: Trabalhando em técnicas avançadas de desenvolvimento Android, como integração com APIs REST e otimização de performance em aplicações móveis.
-- **Node.js**: Construindo APIs robustas e escaláveis para backend, utilizando Node.js e Express, com foco em desempenho e segurança.
-- **MySQL**: Melhorando o design de banco de dados, consultas SQL otimizadas e integração com sistemas full-stack para armazenamento e manipulação de dados.
+Kotlin: Aprofundando na criação de aplicações móveis nativas com Android, utilizando as melhores práticas de arquitetura e design de interfaces.
+Android: Trabalhando em técnicas avançadas de desenvolvimento Android, como integração com APIs REST e otimização de performance em aplicações móveis.
+
+Outras tecnologias: Node.js, MySQL e React
 
 ## 📫 Como me encontrar
 
