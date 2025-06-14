@@ -1,4 +1,4 @@
-# 👋 Olá! Eu me chamo Rodrigo de Souza Lopes! Desenvolvedor mobile Android, pós graduando em Desenvolvimento de aplicativos móveis!
+# 👋 Olá! Eu me chamo Rodrigo de Souza Lopes! Desenvolvedor mobile Flutter, pós graduando em Desenvolvimento de aplicativos móveis!
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos que estou trabalhando e outras contribuições que faço para a comunidade.
 
