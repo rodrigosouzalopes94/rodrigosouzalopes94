@@ -1,5 +1,5 @@
 # 👋 Olá! Eu me chamo Rodrigo de Souza Lopes!  
-Desenvolvedor FullStack focado em aplicações web e mobile com Node.js, React e React Native.
+Desenvolvedor FullStack focado em aplicações web e mobile com Node.js, Flutter, React, Angular e Firebase
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos em destaque e contribuições para a comunidade.
 
