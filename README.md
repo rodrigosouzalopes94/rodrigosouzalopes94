@@ -1,40 +1,42 @@
-# 👋 Olá! Eu me chamo Rodrigo de Souza Lopes!  
-Desenvolvedor FullStack focado em aplicações web e mobile com Node.js, Flutter, React, Angular e Firebase
+# Olá! Eu me chamo Rodrigo de Souza Lopes
+Desenvolvedor FullStack focado em aplicações web e mobile com Node.js, Flutter, React, Angular e Firebase.
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos em destaque e contribuições para a comunidade.
 
-## 🔭 Projetos em destaque
+## Projetos em destaque
 
-- **[Agro System](https://github.com/rodrigosouzalopes94/agrosystem-development)**: Projeto FullStack para comunidades ribeirinhas.  
-  ✅ Sistema completo com frontend em React  
-  ⚡ Backend robusto em Node.js com Express  
-  🗄️ Banco de dados MySQL  
-  🛠️ Tecnologias Utilizadas: React, Node.js, Express, MySQL, Chakra UI
+- **CinePasse (Mobile)**: Aplicativo desenvolvido para gestão de cinema.
+  Link: [CinePasse App](https://github.com/rodrigosouzalopes94/CinePasse)
+  Tecnologias: Flutter, Widgets, Riverpod, Arquitetura MVVM e integração com Firebase.
 
-- **[BichoCare App](https://github.com/rodrigosouzalopes94/bicho-care)**: Aplicativo mobile para gestão de pets.  
-  📱 Desenvolvido com React Native e Expo  
-  🔐 Cadastro e autenticação de usuários  
-  🗂️ Gerenciamento de informações de pets  
-  🛠️ Tecnologias Utilizadas: React Native, Expo, Node.js, Express, MySQL
+- **CinePasse Backoffice**: Painel administrativo para o ecossistema CinePasse.
+  Link: [CinePasse Backoffice](https://github.com/rodrigosouzalopes94/CinePasse-Backoffice)
+  Tecnologias: React, Styled Components, hospedado na Vercel e consumo de API Firebase.
 
-## 🚀 Tecnologias e Ferramentas
+- **INENG (Frontend)**: Sistema de gestão para a Ineng Engenharia.
+  Link: [INENG Frontend](https://github.com/rodrigosouzalopes94/INENG_Frontend)
+  Tecnologias: React, Styled Components, Hooks (useState), React Router, Tests e autenticação JWT.
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+- **INENG (Backend)**: API robusta para o sistema de gestão da Ineng Engenharia.
+  Link: [INENG Backend](https://github.com/rodrigosouzalopes94/Ineng_backend)
+  Tecnologias: Node.js, Express, PostgreSQL, Prisma ORM, Arquitetura MVC e Routes.
 
-## 🌱 O que estou aprendendo agora
+## Tecnologias e Ferramentas
 
-- Desenvolvimento FullStack com Node.js, Express e MySQL  
-- Aplicações web com React e Next.js  
-- Aplicações mobile com React Native e Expo  
+- Backend: Node.js, Express, PostgreSQL, MySQL, Prisma ORM, Firebase
+- Frontend: React, Next.js, Angular, Styled Components, Chakra UI
+- Mobile: Flutter (MVVM, Riverpod), React Native (Expo)
 
-## 📫 Como me encontrar
+## O que estou aprendendo agora
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-lopes-b312571b6/)
+- Aprimoramento em Desenvolvimento FullStack com ecossistema Node.js e bancos relacionais.
+- Evolução em aplicações web performáticas com React e Next.js.
+- Especialização em aplicações mobile multiplataforma com Flutter e React Native.
+
+## Contato
+
+Link: [LinkedIn](https://www.linkedin.com/in/rodrigo-lopes-b312571b6/)
 
 ---
 
-⭐️ Se gostar dos projetos, deixe uma estrela!
+Se gostar dos projetos, deixe uma estrela!
