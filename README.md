@@ -9,8 +9,8 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará meus projetos em desta
 ## Projetos em destaque
 
 ### CinePasse (Mobile)
-![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)
-![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24"/>
 
 Aplicativo desenvolvido para gestão de cinema.  
 Link: [CinePasse App](https://github.com/rodrigosouzalopes94/CinePasse)
@@ -20,8 +20,8 @@ Link: [CinePasse App](https://github.com/rodrigosouzalopes94/CinePasse)
 ---
 
 ### CinePasse Backoffice
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-![Vercel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="24"/>
 
 Painel administrativo para o ecossistema CinePasse.  
 Link: [CinePasse Backoffice](https://github.com/rodrigosouzalopes94/CinePasse-Backoffice)
@@ -31,7 +31,7 @@ Link: [CinePasse Backoffice](https://github.com/rodrigosouzalopes94/CinePasse-Ba
 ---
 
 ### INENG (Frontend)
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24"/>
 
 Sistema de gestão para a Ineng Engenharia.  
 Link: [INENG Frontend](https://github.com/rodrigosouzalopes94/INENG_Frontend)
@@ -41,8 +41,8 @@ Link: [INENG Frontend](https://github.com/rodrigosouzalopes94/INENG_Frontend)
 ---
 
 ### INENG (Backend)
-![NodeJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="24"/>
 
 API robusta para o sistema de gestão da Ineng Engenharia.  
 Link: [INENG Backend](https://github.com/rodrigosouzalopes94/Ineng_backend)
@@ -52,13 +52,13 @@ Link: [INENG Backend](https://github.com/rodrigosouzalopes94/Ineng_backend)
 ---
 
 ## Tecnologias e Ferramentas
-![NodeJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg)
-![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg)
-![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)
-![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="24"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24"/>
 
 **Backend:** Node.js, Express, PostgreSQL, MySQL, Prisma ORM, Firebase  
 **Frontend:** React, Next.js, Angular, Styled Components, Chakra UI  
